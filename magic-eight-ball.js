@@ -1,3 +1,10 @@
+/*
+Application is for random nummber game.
+it generates random numbers for user.
+If it is number 8 then user is a winner
+else it gives prediction.
+*/
+
 let userName
 userName ='Jane'
 userName ? console.log(`Hello!, ${userName}`): console.log('Hello!')
