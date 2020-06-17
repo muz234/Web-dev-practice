@@ -1,3 +1,8 @@
+/*
+The program is to register runners based on age and the time registered for the event.
+If user is >18 and registered early then user can start running at 9:30 am.
+*/
+
 let raceNumber = Math.floor(Math.random() * 1000);
 
 
